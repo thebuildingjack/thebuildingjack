@@ -1,4 +1,4 @@
-# Hi, I’m Jack.
+# Hi, I’m Francis.
 
 Frontend Engineer building clean, responsive web apps and product-focused interfaces with React, Next.js, and TypeScript.
 
@@ -32,7 +32,7 @@ Solana app interfaces, agent workflows, better product systems for frontend apps
 
 ## Featured projects
 
-### Agentic Wallet Sandbox
+### Agentic Wallet Prototype
 Devnet-only multi-agent Solana wallet prototype with a live dashboard for monitoring agent activity, balances, actions, and transaction flow.
 
 **Repo:** [agentic_wallet-v3](https://github.com/thebuildingjack/agentic_wallet-v3)
@@ -74,7 +74,7 @@ Launch NFTs — no code, no limits.
 
 ## Currently building
 
-I’m currently improving **Agentic Wallet Sandbox** with a stronger presentation layer, better responsiveness across devices, and cleaner repo documentation for easier evaluation by recruiters and collaborators.
+I’m currently improving **Agentic Wallet Prototype** with a stronger presentation layer, better responsiveness across devices, and cleaner repo documentation for easier evaluation by recruiters and collaborators.
 
 ## How I work
 
