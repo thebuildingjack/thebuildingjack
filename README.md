@@ -124,8 +124,8 @@ I’m currently improving **Agentic Wallet Prototype** with a stronger presentat
 ## Contact
 
 - GitHub: [@thebuildingjack](https://github.com/thebuildingjack)
-- Portfolio: [PORTFOLIO_LINK]
-- Email: [EMAIL]
+- Portfolio: [my portfolio](https://francisauthority-portfolio.vercel.app)
+- Email: [francis.i.authority@gmail.com](francis.i.authority@gmail.com)
 
 ---
 
